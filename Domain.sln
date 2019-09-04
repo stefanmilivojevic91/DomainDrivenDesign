@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{326142C5-D20F-4B66-8FCB-19CB0FDD94EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure", "Infrastructure\Infrastructure.csproj", "{D42F25A7-9CC8-4426-B427-290E3A3CCF1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application", "Application\Application.csproj", "{504AF7C8-9FD4-4257-B9DE-D969EBFE1656}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{326142C5-D20F-4B66-8FCB-19CB0FDD94EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{326142C5-D20F-4B66-8FCB-19CB0FDD94EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{326142C5-D20F-4B66-8FCB-19CB0FDD94EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{326142C5-D20F-4B66-8FCB-19CB0FDD94EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D42F25A7-9CC8-4426-B427-290E3A3CCF1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D42F25A7-9CC8-4426-B427-290E3A3CCF1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D42F25A7-9CC8-4426-B427-290E3A3CCF1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D42F25A7-9CC8-4426-B427-290E3A3CCF1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{504AF7C8-9FD4-4257-B9DE-D969EBFE1656}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{504AF7C8-9FD4-4257-B9DE-D969EBFE1656}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{504AF7C8-9FD4-4257-B9DE-D969EBFE1656}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{504AF7C8-9FD4-4257-B9DE-D969EBFE1656}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F932370A-5A27-4F20-8520-11434B8142F2}
+	EndGlobalSection
+EndGlobal
